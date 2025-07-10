@@ -1,0 +1,28 @@
+html {
+  background: linen;
+  color: black;
+}
+
+.topnav {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: linen;
+  margin: 0;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.gauge-logo {
+  text-align: center;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.topnav a {
+  font-size: 17px;
+  color: black; 
+  text-decoration: none;
+}
